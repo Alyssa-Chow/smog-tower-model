@@ -1,23 +1,4 @@
 # Project 2: Smog Tower Analysis
-# File: Proj2Code_Team82
-# Date: 1 April 2025
-# By: Alyssa Chow
-# chow66
-# Sophia Chambers
-# chamb157
-# Ethan Dilascio
-# edilasci
-# Aarav Agrawal
-# agraw267
-# Section: 5
-# Team: 82
-#
-# ELECTRONIC SIGNATURE
-# Alyssa Chow
-# Sophia Chambers
-# Ethan Dilascio
-# Aarav Agrawal
-#
 # PROGRAM DESCRIPTION:
 # This program prompts the user for their weighted importance of cost and 
 # efficiency and uses this to calculate the resulting voltage powering the 
